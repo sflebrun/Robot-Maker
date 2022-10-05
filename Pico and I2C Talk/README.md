@@ -1,6 +1,6 @@
-# <h1 align="center">Pico and I2C using MicroPython</h1>
+<h1 align="center">Pico and I2C using MicroPython</h1>
 <h2 align="center">Presentation given at the Roanke South County Library, Roanoke, VA USA</h2>
-### <h3 align="center">on October 8, 2022  by Steven F. LeBrun</h3>
+<h3 align="center">on October 8, 2022  by Steven F. LeBrun</h3>
 
 
 ## Pico and I2C Presentation
